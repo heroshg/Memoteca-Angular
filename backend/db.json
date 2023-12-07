@@ -1,0 +1,52 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Criamos componentes",
+      "autoria": "Heros",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Entendemos conceitos de fluxo de dados",
+      "autoria": "Heros Hlatki",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Entendemos diretivas!",
+      "autoria": "Heros",
+      "modelo": "modelo1"
+    },
+    {
+      "conteudo": "Aprendemos rotas!",
+      "autoria": "Heros Hlatki",
+      "modelo": "modelo3",
+      "id": 4
+    },
+    {
+      "conteudo": "Realizamos requisições no HTTP e aprendemos sobre observables!",
+      "autoria": "Heros Hlatki",
+      "modelo": "modelo3",
+      "id": 5
+    },
+    {
+      "conteudo": "Sexo",
+      "autoria": "Luis moreira",
+      "modelo": "modelo3",
+      "id": 6
+    },
+    {
+      "conteudo": "I love fortnite",
+      "autoria": "Matheus Opis",
+      "modelo": "modelo2",
+      "id": 7
+    },
+    {
+      "conteudo": "Ninguem tá puro",
+      "autoria": "Felipe Kokubo",
+      "modelo": "modelo3",
+      "id": 8
+    }
+  ]
+}
